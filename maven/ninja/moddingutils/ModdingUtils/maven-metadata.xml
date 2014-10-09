@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ninja.moddingutils</groupId>
+  <artifactId>ModdingUtils</artifactId>
+  <version>Beta1</version>
+  <versioning>
+    <versions>
+      <version>Beta1</version>
+    </versions>
+    <lastUpdated>20141009163605</lastUpdated>
+  </versioning>
+</metadata>
